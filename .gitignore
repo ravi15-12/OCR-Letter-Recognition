@@ -4,12 +4,12 @@
 # VS Code
 .vscode/
 
-# Large model/checkpoint files
+# Large model files
 *.pth
 *.pt
 *.ckpt
 
-# NumPy/data files
+# NumPy files
 *.npz
 
 # Python cache
